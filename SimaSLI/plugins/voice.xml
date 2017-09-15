@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+    <name>SimaVoice</name>
+    <description>Voice synthesis in SimaSLI</description>
+    <version>1.1</version>
+    <state>enabled</state>
+</plugin>

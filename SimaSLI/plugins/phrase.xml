@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+    <name>Phrase</name>
+    <description>Handles phrases in the interpreter</description>
+    <version>0.1a</version>
+    <state>disabled</state>
+</plugin>
