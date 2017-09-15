@@ -1,9 +1,6 @@
-# SímaSLI
+# SímaSLI OLD VERSION
+# NEW REPO AVAILABLE ON [GITLAB](https://gitlab.pointcheval.fr/hugo/SimaSLI)
 Our website: [here](http://hugo.pointcheval.fr)
-
-Our GitHub Page: [here](https://hugo-p.github.io/SimaSLI/)
-
-Our GitHub Project: [here](https://github.com/hugo-p/SimaSLI)
 
 ***
 
